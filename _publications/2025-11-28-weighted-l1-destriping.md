@@ -10,10 +10,6 @@ citation: "MA Hossain, A Ray, AV Patel, SK Singh, B Banerjee. (2025). &quot;A We
 paperurl: "https://ieeexplore.ieee.org/document/11325737"
 ---
 
-## Publication
-
-2025 IEEE 7th International Conference on Computing, Communication and Automation (ICCCA), pp. 1–5.
-
 ## Links
 
 * [Paper](https://ieeexplore.ieee.org/document/11325737)

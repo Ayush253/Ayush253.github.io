@@ -11,10 +11,6 @@ citation: "MK Gourisaria, S Khare, AV Patel, M Sahni, E León-Castro. (2023). &q
 paperurl: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-2PNnMIAAAAJ&citation_for_view=-2PNnMIAAAAJ:9yKSN-GCB0IC"
 ---
 
-## Publication
-
-Novel Developments in Futuristic AI-based Technologies, pp. 67–92.
-
 ## Links
 
 * [Google Scholar record](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-2PNnMIAAAAJ&citation_for_view=-2PNnMIAAAAJ:9yKSN-GCB0IC)

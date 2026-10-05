@@ -11,10 +11,6 @@ citation: "MK Gourisaria, AV Patel, R Chatterjee, V Singh. (2023). &quot;Efficie
 paperurl: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-2PNnMIAAAAJ&citation_for_view=-2PNnMIAAAAJ:qjMakFHDy7sC"
 ---
 
-## Publication
-
-International Conference on Smart Systems: Innovations in Computing, pp. 247–258.
-
 ## Links
 
 * [Google Scholar record](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-2PNnMIAAAAJ&citation_for_view=-2PNnMIAAAAJ:qjMakFHDy7sC)

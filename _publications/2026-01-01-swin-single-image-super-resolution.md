@@ -11,10 +11,6 @@ citation: "MA Hossain, P Valkesh, AV Patel, Y Jethani, SK Singh, B Banerjee. (20
 paperurl: "https://arxiv.org/abs/2605.09687"
 ---
 
-## Publication
-
-arXiv preprint arXiv:2605.09687.
-
 ## Links
 
 * [Paper](https://arxiv.org/abs/2605.09687)
