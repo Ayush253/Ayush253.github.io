@@ -6,13 +6,10 @@ permalink: "/publication/swin-single-image-super-resolution"
 # January 1 is a sorting key when only the publication year is known.
 date: "2026-01-01"
 venue: "arXiv preprint arXiv:2605.09687"
+authors: "MA Hossain, P Valkesh, AV Patel, Y Jethani, SK Singh, B Banerjee"
 citation: "MA Hossain, P Valkesh, AV Patel, Y Jethani, SK Singh, B Banerjee. (2026). &quot;Spatial-Frequency Gated Swin Transformer for Remote Sensing Single-Image Super-Resolution.&quot; <i>arXiv preprint arXiv:2605.09687</i>."
 paperurl: "https://arxiv.org/abs/2605.09687"
 ---
-
-## Authors
-
-MA Hossain, P Valkesh, AV Patel, Y Jethani, SK Singh, B Banerjee
 
 ## Publication
 
