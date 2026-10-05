@@ -11,6 +11,8 @@ I am a **Doctoral Researcher at CSRE (Centre of Studies in Resources Engineering
 
 My publications cover remote sensing and quantum-classical learning, alongside earlier work on applied machine learning. See the [Publications](/publications/) page for my research papers and preprints.
 
+You can reach me by email at [ayu020503@gmail.com](mailto:ayu020503@gmail.com).
+
 Research interests
 ======
 * Deep learning for remote sensing
