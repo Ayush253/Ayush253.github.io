@@ -5,13 +5,10 @@ category: "conferences"
 permalink: "/publication/weighted-l1-destriping"
 date: "2025-11-28"
 venue: "2025 IEEE 7th International Conference on Computing, Communication and Automation (ICCCA)"
+authors: "MA Hossain, A Ray, AV Patel, SK Singh, B Banerjee"
 citation: "MA Hossain, A Ray, AV Patel, SK Singh, B Banerjee. (2025). &quot;A Weighted ℓ1 Regularization Method for Stripe Noise Removal in Remote Sensing Images.&quot; <i>2025 IEEE 7th International Conference on Computing, Communication and Automation (ICCCA)</i>, pp. 1–5."
 paperurl: "https://ieeexplore.ieee.org/document/11325737"
 ---
-
-## Authors
-
-MA Hossain, A Ray, AV Patel, SK Singh, B Banerjee
 
 ## Publication
 
