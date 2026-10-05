@@ -15,9 +15,6 @@
     {% endif %}
   </h3>
   {% if post.authors %}
-    <p class="archive__item-authors" style="font-size: smaller; margin: 0.1em 0 0.2em 0; color: #555;">{{ post.authors }}</p>
-  {% endif %}
-  {% if post.venue %}
-    <p class="archive__item-venue" style="font-size: smaller; margin: 0 0 0.4em 0;"><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+    <p class="archive__item-authors" style="font-size: smaller; margin: 0.1em 0 0.4em 0; color: #555;">{{ post.authors }}</p>
   {% endif %}
 </li>
