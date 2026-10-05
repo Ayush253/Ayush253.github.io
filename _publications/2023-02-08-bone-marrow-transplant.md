@@ -10,10 +10,6 @@ citation: "MK Gourisaria, AV Patel, R Chatterjee, B Sahoo. (2023). &quot;Predict
 paperurl: "https://ieeexplore.ieee.org/document/10114043"
 ---
 
-## Publication
-
-2022 OPJU International Technology Conference on Emerging Technologies for Sustainable Development (OTCON), pp. 1–6.
-
 ## Links
 
 * [Paper](https://ieeexplore.ieee.org/document/10114043)

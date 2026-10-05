@@ -11,10 +11,6 @@ citation: "MA Hossain, AV Patel, SK Singh, Y Jethani, B Banerjee. (2026). &quot;
 paperurl: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-2PNnMIAAAAJ&citation_for_view=-2PNnMIAAAAJ:Se3iqnhoufwC"
 ---
 
-## Publication
-
-ECCV 2026 Workshop TerraBytes II.
-
 ## Links
 
 * [Google Scholar record](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-2PNnMIAAAAJ&citation_for_view=-2PNnMIAAAAJ:Se3iqnhoufwC)
