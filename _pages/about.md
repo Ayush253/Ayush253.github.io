@@ -20,9 +20,9 @@ Research interests
 * Computer vision
 * Foundation models
 
-Selected Publications
+Some of my Publications
 ======
 * **[QMC-Net: Data-aware quantum representations for remote sensing image classification](/publication/qmc-net)** — *International Conference on Pattern Recognition*, 2026.
 * **[HQ-JEPA: Hybrid Quantum Joint-Embedding Predictive Architecture for Cross-Modal Remote Sensing Representation Learning](/publication/hq-jepa)** — *arXiv preprint arXiv:2605.31068*, 2026.
 
-More of my work is on [GitHub](https://github.com/Ayush253).
+<!-- More of my work is on [GitHub](https://github.com/Ayush253). -->

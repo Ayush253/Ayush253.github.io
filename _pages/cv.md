@@ -18,8 +18,9 @@ Education
 Work Experience
 ======
 * **Research Intern** — Space Applications Centre (SAC), ISRO, Ahmedabad (June 2025 – May 2026)
-  * Worked on applications of Quantum Machine Learning (QML) and Hybrid Quantum Deep Learning techniques for classification and enhancement of high-resolution satellite imagery.
-  * Developed a technique to pretrain classical models using quantum properties (Quantum Self-Supervised Learning).
+  * Worked on the project “Quantum Machine Learning Applications for High Resolution Satellite Image: Classifications and Beyond”.
+  * Targeted Remote Sensing Applications - Land Cover, Land Use and Representational Learning (Self-supervised Learning) using huge remote sensing datasets.
+  * For each task, quantum circuits were integrated into the classical models to produce richer representations compared to classical models.
 
 Publications
 ======

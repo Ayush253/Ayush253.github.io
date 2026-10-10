@@ -14,9 +14,9 @@ citation: 'Ayush V. Patel, Vinayak Singh, Mahendra Kumar Gourisaria, and Rajdeep
 
 ## Abstract
 
-Concrete is a mixture of a hardened particulate material known as aggregate which is fused with water and cement, and it is the most used man-made material. Since there are different types of cement, the strength of concrete might vary. In this paper, we use machine-learning regression models — Linear Regression, Lasso Regression, Ridge Regression, Polynomial Regression, Decision Tree, K-Nearest Neighbor, Random Forest, Gradient Boosting Regression, AdaBoost, Support Vector Machine, and XGBoost — to predict the strength of concrete.
-
-The paper emphasizes a **dual approach**: the first approach trains on all available features, while the second performs dimensionality reduction with Principal Component Analysis (PCA) before training. Across all experiments, **XGBoost with all features gave the best results** — an R² score of 0.9206, MSE of 20.6790, RMSE of 4.5474, and MAE of 2.8966.
+<p style="text-align: justify;">
+Concrete is a mixture of a hardened particulate material known as aggregate which is fused with water and cement. Concrete is the most used man-made material. Concrete is most commonly used on construction sites while building roads, bridges, dams, etc. Since there are different types of cement, the strength of concrete might vary. In this paper, we have used machine learning regression models like Linear Regression (LR), Lasso Regression (LaR), Ridge Regression (LR), Polynomial Regression (PR), Decision Tree (DT), K–Nearest Neighbor (KNN), Random Forest (RF), Gradient Boosting Regression (GBR), ADA Boosting (ADA), Support Vector Machine (SVM) and XG Boost (XGB) to predict the strength of concrete. This paper emphasizes on dual approach for predicting the concrete strength where the first approach is based on consideration of all the features for training and in the second approach, dimensionality reduction is performed using Principal Component Analysis (PCA) technique. In terms of results, XG Boost Regression (XGB) model with all features gave the best R2 score of 0.9206, Mean Squared Error of 20.6790, Root Mean Squared Error of 4.5474 and Mean Absolute Error of 2.8966.
+</p>
 
 ## Links
 
