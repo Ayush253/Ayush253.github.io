@@ -21,7 +21,7 @@ and hosted for free on GitHub Pages.
 1. Edit the Markdown/YAML files above.
 2. Add downloadable files (e.g. paper PDFs) to the [`files/`](files/) directory —
    they become available at `https://ayush253.github.io/files/<filename>`.
-3. Replace `images/profile.png` with a square profile photo (currently a placeholder).
+3. Set `author.avatar` in `_config.yml` to a profile photo filename in `images/` (currently `Passport.jpg`).
 4. Commit and push — GitHub Pages rebuilds the site automatically.
 
 Search for `TODO(Ayush)` comments across the repo to find the spots still
@@ -33,6 +33,9 @@ waiting for personal details (email, institution, social links, CV entries).
 bundle install
 bundle exec jekyll serve -l -H localhost
 ```
+
+On Windows, `tzinfo-data` is included to provide the timezone database Jekyll
+needs. Run `bundle install` after cloning or pulling dependency changes.
 
 or with Docker:
 

@@ -22,7 +22,7 @@ repository               : "Ayush253/ayush.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Passport.jpg"
   name             : "Ayush V. Patel"
   pronouns         : # example: "he/him"
   bio              : "Doctoral Researcher at CSRE, IIT Bombay — deep learning, computer vision, quantum machine learning, remote sensing"
@@ -126,7 +126,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
