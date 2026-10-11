@@ -12,13 +12,23 @@ layout: default
   {% endunless %}
 {% endif %}
 
-<div id="main" role="main">
-  {% include sidebar.html %}
+<div id="main" role="main"{% if page.portfolio_page %} class="portfolio-page-layout"{% endif %}>
+  {% unless page.portfolio_page %}
+    {% include sidebar.html %}
+  {% endunless %}
 
-  <div class="archive">
-    {% unless page.header.overlay_color or page.header.overlay_image %}
-      <h1 class="page__title">{{ page.title }}</h1>
-    {% endunless %}
+  <div class="archive{% if page.portfolio_page %} portfolio-page{% endif %}">
+    {% if page.portfolio_page %}
+      <header class="portfolio-page-hero">
+        <p class="portfolio-eyebrow"><span></span> {{ page.kicker }}</p>
+        <h1 class="portfolio-page-title">{{ page.title }}</h1>
+        {% if page.subtitle %}<p class="portfolio-page-intro">{{ page.subtitle }}</p>{% endif %}
+      </header>
+    {% else %}
+      {% unless page.header.overlay_color or page.header.overlay_image %}
+        <h1 class="page__title">{{ page.title }}</h1>
+      {% endunless %}
+    {% endif %}
     {{ content }}
   </div>
 </div>

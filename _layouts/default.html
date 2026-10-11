@@ -15,6 +15,9 @@ layout: compress
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
+    {% if page.portfolio_page %}
+      <canvas class="portfolio-page-canvas" aria-hidden="true"></canvas>
+    {% endif %}
 
     {{ content }}
 

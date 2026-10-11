@@ -31,11 +31,12 @@ waiting for personal details (email, institution, social links, CV entries).
 
 ```bash
 bundle install
-bundle exec jekyll serve -l -H localhost
+bundle exec jekyll serve -l -H localhost --config _config.yml,_config_docker.yml
 ```
 
-On Windows, `tzinfo-data` is included to provide the timezone database Jekyll
-needs. Run `bundle install` after cloning or pulling dependency changes.
+The local config points asset and navigation URLs at localhost. On Windows,
+`tzinfo-data` provides the timezone database Jekyll needs. Run `bundle install`
+after cloning or pulling dependency changes.
 
 or with Docker:
 

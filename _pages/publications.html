@@ -2,11 +2,19 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
+portfolio_page: true
+kicker: "Research output"
+subtitle: "Selected work across quantum machine learning, remote sensing, computer vision, and data-driven modeling."
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  {% assign scholar_url = site.author.googlescholar %}
 {% endif %}
 
-{% include publication-list.html %}
+<div class="portfolio-publications">
+  {% if scholar_url %}
+    <a class="portfolio-text-link portfolio-scholar-link" href="{{ scholar_url }}" target="_blank" rel="noopener noreferrer">View my Google Scholar profile <span aria-hidden="true">↗</span></a>
+  {% endif %}
+  {% include publication-list.html %}
+</div>
